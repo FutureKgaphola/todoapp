@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "name": "Bokamoso",
+      "surname": "kgaphola",
+      "email": "futurekgaphola@gmail.com",
+      "pass": "123567",
+      "id": 1
+    },
+    {
+      "name": "samuel",
+      "surname": "zane",
+      "email": "future@gmail.com",
+      "pass": "123567",
+      "id": 2
+    },
+    {
+      "name": "samuel",
+      "surname": "stevens",
+      "email": "samuel@gmail.com",
+      "pass": "123567",
+      "id": 3
+    },
+    {
+      "name": "Mashanya",
+      "surname": "Mokgadi",
+      "email": "Mokgadi@gmail.com",
+      "pass": "123456",
+      "id": 4
+    }
+    
+  ],
+  "tasks": [
+    {
+      "name": "Bokamoso",
+      "colorIcon": "badge bg-danger",
+      "datecreated": "14 May 2023",
+      "msg": "today i wanna cook chicken and rice",
+      "creatorId": 1,
+      "Priority": "High",
+      "id": 1
+    },
+    {
+      "name": "Bokamoso",
+      "colorIcon": "badge bg-danger",
+      "datecreated": "16 May 2023",
+      "msg": "today i wanna cook samp and rice",
+      "creatorId": 1,
+      "Priority": "High",
+      "id": 2
+    },
+    {
+      "name": "Bokamoso",
+      "colorIcon": "badge bg-warning",
+      "datecreated": "17 May 2023",
+      "msg": "today i wanna cook ",
+      "creatorId": 1,
+      "Priority": "Medium",
+      "id": 3
+    },
+    {
+      "name": "Jabu",
+      "colorIcon": "badge bg-success",
+      "datecreated": "14 May 2023",
+      "msg": "today i am lazy",
+      "creatorId": 3,
+      "Priority": "low",
+      "id": 4
+    },
+    {
+      "name": "Bokamoso",
+      "colorIcon": "badge bg-warning",
+      "datecreated": "6/15/2023",
+      "msg": "I will code for 3 hours to 4 hours",
+      "creatorId": "1",
+      "Priority": "Medium",
+      "id": 5
+    },
+    {
+      "name": "Bokamoso",
+      "colorIcon": "badge bg-danger",
+      "datecreated": "6/15/2023",
+      "msg": "Some task for the day",
+      "creatorId": "1",
+      "Priority": "High",
+      "id": 6
+    },
+    {
+      "name": "Bokamoso",
+      "colorIcon": "badge bg-warning",
+      "datecreated": "6/15/2023",
+      "msg": "This is the code that is delivered when a web page or resource",
+      "creatorId": "1",
+      "Priority": "Medium",
+      "id": 7
+    }
+  ]
+}
